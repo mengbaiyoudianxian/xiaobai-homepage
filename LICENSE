@@ -1,21 +1,77 @@
-MIT License
+小白主页 许可协议（MIT + 署名条款）
+Xiaobai Homepage License (MIT with Attribution Clause)
 
-Copyright (c) 2026 孟白 (MengBai)
+Copyright (c) 2026 孟白 (MengBai) · https://mbclaw.top
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+========================================================================
+一、许可（同 MIT）
+========================================================================
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+特此免费授予任何获得本软件及相关文档文件（以下称“本软件”）副本的人
+不受限制地处理本软件的权利，包括但不限于使用、复制、修改、合并、发布、
+分发、再许可和/或出售本软件副本，并允许获得本软件的人这样做，但须满足
+以下全部条件：
+
+1. 上述版权声明和本许可协议（含第二部分署名条款）必须包含在本软件的
+   所有副本或主要部分中。
+
+2. 必须遵守下面第二部分的署名条款。
+
+========================================================================
+二、署名条款（强制）
+========================================================================
+
+A. 页面署名
+   使用本软件或其任何修改版本制作的每一个公开页面，都必须在页面的
+   最下方保留一行清晰可见的署名，说明此界面（UI）来自孟白，并包含
+   一个指向 https://mbclaw.top 的可点击链接。默认署名为：
+
+       UI 来自 孟白 · mbclaw.top
+
+   不得删除、隐藏（包括但不限于用 CSS 或脚本隐藏、设为透明、缩小到
+   无法辨认、移出可视区域、被其他元素遮挡）、篡改该署名，或更改该
+   链接的指向。可以调整署名的字体、颜色、大小以配合页面风格，但必须
+   保持清晰可读、可点击，并位于页面最下方。
+
+B. 二次修改后再发布
+   对本软件进行修改（包括仅修改文字、图片、样式或结构）后，以任何方式
+   再次公开发布或分发的（包括但不限于发布到 GitHub、Gitee 等代码托管
+   平台，作为模板、主题或网站提供给他人），必须：
+     (1) 原样附带本许可协议全文；
+     (2) 在说明文档（如 README）中注明“UI 来自 孟白（https://mbclaw.top）”；
+     (3) 保留第 A 款要求的页面署名；
+     (4) 要求其下游使用者和再发布者同样遵守本署名条款。
+
+C. 违反本署名条款的，本许可自动终止。
+
+========================================================================
+三、免责声明（同 MIT）
+========================================================================
+
+本软件按“原样”提供，不附带任何明示或暗示的保证，包括但不限于对适销性、
+特定用途适用性和非侵权性的保证。在任何情况下，作者或版权持有人均不对
+任何索赔、损害或其他责任负责，无论是合同诉讼、侵权行为还是其他原因，
+由本软件或本软件的使用或其他交易引起、由其产生或与之相关。
+
+========================================================================
+English summary (the Chinese text above prevails)
+========================================================================
+
+Permission is granted, free of charge, to use, copy, modify, merge, publish,
+distribute, sublicense and/or sell copies of this software, under MIT terms,
+PROVIDED THAT:
+
+- Every public page built with this software or a modified version of it
+  keeps, at the very bottom of the page, a clearly visible credit stating
+  that the UI comes from MengBai, with a clickable link to https://mbclaw.top
+  (default text: "UI 来自 孟白 · mbclaw.top"). The credit must not be removed,
+  hidden, obscured, altered, or re-pointed.
+- Any modified version that is published or redistributed (including on
+  GitHub) must include this license in full, credit "UI by MengBai
+  (https://mbclaw.top)" in its README, keep the page credit, and require the
+  same of its downstream users.
+- Violating these attribution terms automatically terminates this license.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+IMPLIED. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE SOFTWARE OR ITS USE.

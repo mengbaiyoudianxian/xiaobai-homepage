@@ -212,7 +212,7 @@ details[open] .feat li:nth-child(2){animation-delay:.06s}details[open] .feat li:
 .contact p b{color:#fff;display:block;font-size:20px;margin-bottom:4px}
 .contact .row{display:flex;flex-wrap:wrap;gap:10px}
 
-footer{padding:56px 0 110px;text-align:center;color:var(--muted);font-size:13px}
+footer{padding:56px 0 14px;text-align:center;color:var(--muted);font-size:13px}
 footer .dot{margin:0 8px;opacity:.5}
 
 
@@ -244,6 +244,12 @@ footer .dot{margin:0 8px;opacity:.5}
   .lb img{width:min(100%,calc((100vh - 190px) * 1.6))}
   .lb .cap{margin-bottom:58px;font-size:13px}
 }
+
+/* ---------- 页面最下方的 UI 署名（许可证要求保留） ---------- */
+.ui-credit{position:relative;z-index:1;margin:0 auto;padding:0 16px 28px;text-align:center;font-size:13px;color:var(--muted)}
+.ui-credit a{color:var(--ink-2);text-decoration:none;border-bottom:1px solid rgba(255,255,255,.25)}
+.ui-credit a:hover{color:#fff;border-color:#fff}
+.ui-credit .dot{margin:0 8px;opacity:.5}
 
 /* ---------- 音乐小胶囊 ---------- */
 .nav .bar{position:relative}
@@ -563,9 +569,12 @@ h1 .g{background-size:220% 100%;background-image:linear-gradient(92deg,var(--pin
   </section>
 
   <footer class="reveal">
-    © 2026 你的名字<span class="dot">·</span>界面来自 <a href="https://github.com/mengbaiyoudianxian/xiaobai-homepage" target="_blank" rel="noopener">小白主页</a>
+    © 2026 你的名字
   </footer>
 </main>
+
+<!-- 小白主页 · UI 来自 孟白 https://mbclaw.top 。按许可证要求，这行署名必须保留在页面最下方、清晰可见，不得删除、隐藏或改链接。 -->
+<p class="ui-credit" id="ui-credit">UI 来自 <a href="https://mbclaw.top/" target="_blank" rel="noopener">孟白 · mbclaw.top</a><span class="dot">·</span>模板 <a href="https://github.com/mengbaiyoudianxian/xiaobai-homepage" target="_blank" rel="noopener">小白主页</a></p>
 
 <div class="lb" id="lb" role="dialog" aria-modal="true" aria-label="查看截图" hidden>
   <button class="x" type="button" aria-label="关闭（Esc）"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button>
